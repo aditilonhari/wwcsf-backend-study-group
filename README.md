@@ -9,4 +9,4 @@ Stay tuned for more updates!
 
 Have questions? 
 1. Email us at: sf@womenwhocode.com
-2. Join our Slack channel: https://app.slack.com/client/T1LNYB6K1/C01LB7EAZV5/user_profile/UR2755EG7
+2. Join our Slack channel: https://join.slack.com/t/wwcode/shared_invite/zt-d09eelt3-UyQb93pVtrP78moG54oQGw
