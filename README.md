@@ -1,4 +1,4 @@
-# Welcome to the Backend Study Group by Women Who Code!
+# Welcome to the Backend Study Group by Women Who Code SF!
 
 In this GitHub repository, we will share out the following from past Meetup events:
 1. Presentations
