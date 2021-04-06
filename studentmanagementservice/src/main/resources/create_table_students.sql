@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS students;
+DROP TABLE IF EXISTS student;
 
-CREATE TABLE students (
+CREATE TABLE student (
   student_id INT AUTO_INCREMENT PRIMARY KEY,
   first_name VARCHAR(255) NOT NULL,
   last_name VARCHAR(255) NOT NULL,
