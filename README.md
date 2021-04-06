@@ -5,13 +5,13 @@ In this GitHub repository, we will share out the following from past Meetup even
 2. Coding projects
 3. Resources
 
-Please find recordings of past events at the [Women Who Code youtube channel](https://www.youtube.com/user/WomenWhoCode).
-
-Stay tuned for more updates!
-
 Have questions? 
 1. Email us at: sf@womenwhocode.com
 2. Join our [#backend-study-group Slack channel](https://join.slack.com/t/wwcode/shared_invite/zt-d09eelt3-UyQb93pVtrP78moG54oQGw)
+
+## Recordings
+Recordings of past events can be found on the [Women Who Code youtube channel](https://www.youtube.com/user/WomenWhoCode). We will also update this page with links to recordings.
+1. April 1, 2021, Introduction to Backend Engineering: https://youtu.be/ne6g1ArYMQA
 
 ## Code of Conduct
 WWCode is an inclusive community, dedicated to providing an empowering experience for everyone who participates in or supports our community, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, socioeconomic status, caste, creed, political affiliation, or preferred programming language(s). 
