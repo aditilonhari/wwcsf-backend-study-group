@@ -8,6 +8,7 @@ A demo project with:
 - Spring Boot
 - JUnit test framework
 - Maven build automation
+- H2 database
 
 ## Build the application in local workspace
 
