@@ -51,7 +51,7 @@ public class StudentManagementController {
       return getGetStudentResponseResponseEntity("Error adding a new student");
     }
 
-    log.info("Successfully created Student={} {} with enrollment status={}",
+    log.info("Successfully added Student={} {} with enrollment status={}",
         addUpdateStudentRequest.getFirstName(),
         addUpdateStudentRequest.getLastName(),
         addUpdateStudentResponse.getEnrollmentStatus().name());

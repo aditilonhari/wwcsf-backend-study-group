@@ -15,10 +15,14 @@ import org.springframework.stereotype.Service;
 @Service
 public class StudentManagementService {
 
-  @Autowired
-  private StudentManagementRepository studentManagementRepository;
+  private final StudentManagementRepository studentManagementRepository;
 
   private final ModelMapper modelMapper = new ModelMapper();
+
+  @Autowired
+  public StudentManagementService(final StudentManagementRepository studentManagementRepository) {
+    this.studentManagementRepository = studentManagementRepository;
+  }
 
   public AddUpdateStudentResponse addStudent(AddUpdateStudentRequest addUpdateStudentRequest) {
     Student student = modelMapper.map(addUpdateStudentRequest, Student.class);

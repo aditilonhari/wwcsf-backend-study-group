@@ -5,6 +5,5 @@ public enum Status {
   ENROLLED,
   WITHDRAWN,
   GRADUATED,
-  DELETED,
-  UPDATED;
+  DELETED;
 }
