@@ -7,16 +7,24 @@ A demo project with:
 - MVC design pattern
 - Spring Boot
 - JUnit test framework
+- Maven build automation
+
+## Build the application in local workspace
+
+In the command terminal, type: ```mvn clean install -U```
 
 ## Run the application in local workspace
 
 In the command terminal, type: ```mvn spring-boot:run```
 
-## Run the application unit tests in local workspace
+## Run the H2 database console in local workspace
 
-In the command terminal, type: ```mvn test```
+- In the browser, type the URL http://localhost:8080/h2
+- Enter the datasource URL, username and password (as mentioned in the application.properties file)
+  to login
+- Click on the table name 'student'. Then click on the 'Run' button to see the records
 
-### Credits
+## Credits
 
-Developed for Backend Study Group by @prachi.shah (https://www.linkedin.com/in/prachisshah/) in
-April 2021
+Developed for WWCode San Francisco Backend Study Group by
+@prachi.shah (https://www.linkedin.com/in/prachisshah/) in April 2021
