@@ -8,6 +8,7 @@ In this GitHub repository, we will share out the following from past Meetup even
 Have questions? 
 1. Email us at: sf@womenwhocode.com
 2. Join our [#backend-study-group Slack channel](https://join.slack.com/t/wwcode/shared_invite/zt-d09eelt3-UyQb93pVtrP78moG54oQGw)
+3. Let us know how we're doing by filling out our anonymous [feedback form](https://forms.gle/UrhztqutyE7oAf9Q6)
 
 ## Recordings
 Recordings of past events can be found on the [Women Who Code youtube channel](https://www.youtube.com/user/WomenWhoCode). We will also update this page with links to recordings.
