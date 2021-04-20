@@ -13,6 +13,7 @@ Have questions?
 ## Recordings
 Recordings of past events can be found on the [Women Who Code youtube channel](https://www.youtube.com/user/WomenWhoCode). We will also update this page with links to recordings.
 1. April 1, 2021, Introduction to Backend Engineering: https://youtu.be/ne6g1ArYMQA
+2. April 8, 2021, Code walk-through of a REST API: https://youtu.be/yhgEebn-29s
 
 ## Code of Conduct
 WWCode is an inclusive community, dedicated to providing an empowering experience for everyone who participates in or supports our community, regardless of gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, socioeconomic status, caste, creed, political affiliation, or preferred programming language(s). 
