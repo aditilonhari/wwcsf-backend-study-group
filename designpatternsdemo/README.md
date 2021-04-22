@@ -3,7 +3,7 @@
 A demo project with:
 
 - Java programming language
-- Object Oriented Design Principles
+- Object Oriented Programming (OOP)
 - Creational Design Patterns
 
 ## Build the application in local workspace
