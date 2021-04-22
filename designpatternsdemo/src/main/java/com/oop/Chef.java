@@ -1,4 +1,4 @@
-package com.designpatterns.oop;
+package com.oop;
 
 public class Chef extends Person {
 
