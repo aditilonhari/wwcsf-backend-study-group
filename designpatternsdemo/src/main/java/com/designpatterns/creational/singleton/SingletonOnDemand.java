@@ -3,15 +3,16 @@ package com.designpatterns.creational.singleton;
 // Class initialized when needed
 public class SingletonOnDemand {
 
+  private static SingletonOnDemand INSTANCE = null;
+
   private SingletonOnDemand() { // private constructor
-  }
-
-  private static class SingletonOnDemandHolder {
-
-    private static final SingletonOnDemand INSTANCE = new SingletonOnDemand();
+    System.out.println("Singleton is created and initialized now");
   }
 
   public static SingletonOnDemand getInstance() {
-    return SingletonOnDemandHolder.INSTANCE;
+    if (INSTANCE == null) {
+      INSTANCE = new SingletonOnDemand();
+    }
+    return INSTANCE;
   }
 }
