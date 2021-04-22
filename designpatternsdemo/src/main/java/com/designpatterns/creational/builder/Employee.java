@@ -12,19 +12,19 @@ public class Employee {
   private String department;
   private String manager;
 
-  public Employee(final String firstName, String lastName) {
+  public Employee(String firstName, String lastName) {
     this.firstName = firstName;
     this.lastName = lastName;
   }
 
-  public Employee(final String firstName, String lastName, String department, String manager) {
+  public Employee(String firstName, String lastName, String department, String manager) {
     this.firstName = firstName;
     this.lastName = lastName;
     this.department = department;
     this.manager = manager;
   }
 
-  public Employee(final String firstName, String lastName, String street1, String street2,
+  public Employee(String firstName, String lastName, String street1, String street2,
       String city, String state, String zipCode) {
     this.firstName = firstName;
     this.lastName = lastName;
@@ -35,7 +35,7 @@ public class Employee {
     this.zipCode = zipCode;
   }
 
-  public Employee(final String firstName, String lastName, String street1, String street2,
+  public Employee(String firstName, String lastName, String street1, String street2,
       String city, String state, String zipCode, String department, String manager) {
     this.firstName = firstName;
     this.lastName = lastName;
