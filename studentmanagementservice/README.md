@@ -1,8 +1,9 @@
-# Java REST API and MVC Demo
+# Java Microservice and REST API Demo
 
 A demo project with:
 
 - Java programming language
+- Microservice
 - REST API
 - MVC design pattern
 - Spring Boot
