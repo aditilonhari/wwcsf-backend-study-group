@@ -1,4 +1,8 @@
-# Java REST API and MVC Demo
+Welcome to the Backend Study Group by Women Who Code SF!
+
+Check us out: https://www.womenwhocode.com/
+
+## Java REST API and MVC Demo
 
 A demo project with:
 
