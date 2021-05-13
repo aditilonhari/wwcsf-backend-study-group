@@ -1,4 +1,8 @@
-# Design Patterns Demo
+Welcome to the Backend Study Group by Women Who Code SF!
+
+Check us out: https://www.womenwhocode.com/
+
+## Design Patterns Demo
 
 A demo project with:
 
