@@ -1,4 +1,4 @@
-Welcome to the Backend Study Group by Women Who Code SF!
+# Welcome to the Backend Study Group by Women Who Code SF!
 
 Check us out: https://www.womenwhocode.com/
 
