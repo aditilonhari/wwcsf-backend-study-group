@@ -2,7 +2,7 @@
 
 Check us out: https://www.womenwhocode.com/
 
-## Design Patterns
+## Design Patterns in Java
 
 Topics covered:
 
