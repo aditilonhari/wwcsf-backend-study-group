@@ -1,4 +1,4 @@
-Welcome to the Backend Study Group by Women Who Code SF!
+# Welcome to the Backend Study Group by Women Who Code SF!
 
 Check us out: https://www.womenwhocode.com/
 
@@ -11,6 +11,7 @@ Topics covered:
 - Creational Design Patterns
 - Structural Design Patterns
 - Behavioral Design Patterns
+- Anti-patterns
 
 ## Build the application in local workspace
 
