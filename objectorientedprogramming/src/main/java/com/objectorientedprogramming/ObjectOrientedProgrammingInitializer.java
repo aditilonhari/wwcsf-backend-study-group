@@ -3,7 +3,7 @@ package com.objectorientedprogramming;
 /**
  * @author prachi.shah
  */
-public class OopInitializer {
+public class ObjectOrientedProgrammingInitializer {
 
     public static void main(String[] args) {
         Person person = new Person("Amanda Jones", 21);

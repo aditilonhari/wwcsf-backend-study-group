@@ -1,4 +1,4 @@
-package com.oop;
+package com.objectorientedprogramming;
 
 public class Artist extends Person {
 

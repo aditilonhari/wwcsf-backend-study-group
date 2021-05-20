@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wwcodesf.backendstudygroup</groupId>
-    <artifactId>studentmanagementservice</artifactId>
+    <artifactId>objectorientedprogramming</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>studentmanagementservice</name>
-    <description>Java REST API and MVC Demo</description>
+    <name>objectorientedprogrammingservice</name>
+    <description>Object-Oriented Programming Principles in Java</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -18,7 +18,7 @@
         <persistence.api.version>2.2</persistence.api.version>
         <modelmapper.version>2.4.0</modelmapper.version>
         <junit.version>4.12</junit.version>
-        <service.location>com.studentmanagement.controller.controller</service.location>
+        <service.location></service.location>
     </properties>
 
     <parent>

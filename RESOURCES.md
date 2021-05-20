@@ -1,10 +1,10 @@
-Welcome to the Backend Study Group by Women Who Code SF!
+# Welcome to the Backend Study Group by Women Who Code SF!
 
 Check us out: https://www.womenwhocode.com/
 
 ## Resources
 
-#### OOP & Design Patterns in Python
+#### Object-Oriented Programming (OOP) & Design Patterns in Python
 
 1. https://en.wikipedia.org/wiki/Software_design_pattern
 2. https://www.tutorialspoint.com/design_pattern/index.htm
@@ -12,7 +12,7 @@ Check us out: https://www.womenwhocode.com/
 4. https://sourcemaking.com/design_patterns
 5. Book: https://www.oreilly.com/library/view/head-first-design/0596007124/
 
-#### OOP & Design Patterns in Python
+#### Object-Oriented Programming (OOP) & Design Patterns in Python
 
 1. https://realpython.com/inheritance-composition-python/
 2. https://codyloyd.com/2021/design-patterns-builder/
