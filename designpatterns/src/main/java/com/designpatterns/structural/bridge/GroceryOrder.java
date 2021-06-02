@@ -7,12 +7,12 @@ public class GroceryOrder extends Order {
 
     public Map<Double, String> itemList;
 
-    public GroceryOrder(Payment payment) {
+    public GroceryOrder(Payment payment) {  // reference the interface
         super(payment);
     }
 
     @Override
-    public void addItems(Map<Double, String> itemList) {
+    public void addItems(Map<Double, String> itemList) {    // Operations
         this.itemList = itemList;
     }
 

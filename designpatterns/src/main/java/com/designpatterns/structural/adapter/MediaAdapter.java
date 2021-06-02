@@ -2,6 +2,9 @@ package com.designpatterns.structural.adapter;
 
 public class MediaAdapter implements Media {
 
+    // Connects objects of different types
+    // Wraps objects to hide complexity
+    // Call adapter methods per object
     public AdvancedMedia advancedMedia = null;
 
     public MediaAdapter(MediaType mediaType) {

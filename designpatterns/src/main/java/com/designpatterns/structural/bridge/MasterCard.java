@@ -1,6 +1,6 @@
 package com.designpatterns.structural.bridge;
 
-public class MasterCard implements Payment {
+public class MasterCard implements Payment {    // Interface and concrete implementation
 
     private String paymentType;
 
