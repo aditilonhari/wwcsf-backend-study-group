@@ -21,6 +21,23 @@ In the command terminal, type: ```mvn clean install -U```
 
 In the command terminal, type: ```mvn spring-boot:run```
 
+## Design Patterns in Ruby
+
+Patterns covered:
+
+- Behavioral Design Patterns
+  - Template Pattern
+
+## Build the application in local workspace
+
+In the command terminal, type: ```cd designpatterns/src/main/ruby/designpatterns/<pattern-type>/<pattern-name>```
+eg ```cd designpatterns/src/main/ruby/designpatterns/behavioral/template```
+This will take you to the folder with main.rb
+
+## Run the application in local workspace
+
+In the command terminal, type: ```ruby main.rb```
+
 ## Credits
 
 Developed for WWCode San Francisco Backend Study Group by
