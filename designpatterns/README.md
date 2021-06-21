@@ -27,6 +27,7 @@ Patterns covered:
 
 - Behavioral Design Patterns
   - Template Pattern
+  - Strategy Pattern
 
 ## Build the application in local workspace
 
