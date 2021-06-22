@@ -29,6 +29,7 @@ Patterns covered:
   - Template Pattern
   - Strategy Pattern
   - Observer Pattern
+  - Iterator Pattern
 - Structural Design Patterns
   - Composite Pattern
 
