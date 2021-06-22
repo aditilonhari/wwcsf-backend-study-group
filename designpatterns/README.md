@@ -29,6 +29,8 @@ Patterns covered:
   - Template Pattern
   - Strategy Pattern
   - Observer Pattern
+- Structural Design Patterns
+  - Composite Pattern
 
 ## Build the application in local workspace
 
