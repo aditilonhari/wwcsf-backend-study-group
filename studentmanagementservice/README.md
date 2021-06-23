@@ -1,6 +1,6 @@
 # Welcome to the Backend Study Group by Women Who Code SF!
 
-Check us out: https://www.womenwhocode.com/
+Check us out: [Women Who Code](https://www.womenwhocode.com/)
 
 ## Java REST API and MVC Demo
 
@@ -32,4 +32,4 @@ In the command terminal, type: ```mvn spring-boot:run```
 ## Credits
 
 Developed for WWCode San Francisco Backend Study Group by
-@prachi.shah (https://www.linkedin.com/in/prachisshah/) in April 2021
+[@prachi.shah](https://www.linkedin.com/in/prachisshah/) in April 2021
