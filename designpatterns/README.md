@@ -30,6 +30,7 @@ Patterns covered:
   - Strategy Pattern
   - Observer Pattern
   - Iterator Pattern
+  - Command Pattern
 - Structural Design Patterns
   - Composite Pattern
 
