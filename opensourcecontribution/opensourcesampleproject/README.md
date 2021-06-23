@@ -1,6 +1,6 @@
 # Welcome to the Backend Study Group by Women Who Code SF!
 
-Check us out: https://www.womenwhocode.com/
+Check us out: [Women Who Code](https://www.womenwhocode.com/)
 
 ## Open Source Contribution
 
@@ -19,14 +19,6 @@ Check us out: https://www.womenwhocode.com/
 - Add tests.
 - Ensure your code does not break the entire codebase.
 
-### Have questions?
-
-1. Email us at: sf@womenwhocode.com
-2. Join
-   our [#backend-study-group Slack channel](https://join.slack.com/t/wwcode/shared_invite/zt-d09eelt3-UyQb93pVtrP78moG54oQGw)
-3. Let us know how we're doing by filling out our
-   anonymous [feedback form](https://forms.gle/UrhztqutyE7oAf9Q6)
-
 ### Build the application in local workspace
 
 In the command terminal, type: ```mvn clean install -U```
@@ -38,4 +30,4 @@ In the command terminal, type: ```mvn spring-boot:run```
 ## Credits
 
 Developed for WWCode San Francisco Backend Study Group by
-@prachi.shah (https://www.linkedin.com/in/prachisshah/) in June 2021
+[@prachi.shah](https://www.linkedin.com/in/prachisshah/) in June 2021
