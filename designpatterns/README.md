@@ -33,6 +33,7 @@ Patterns covered:
   - Command Pattern
 - Structural Design Patterns
   - Composite Pattern
+  - Adapter Pattern
 
 ## Build the application in local workspace
 
