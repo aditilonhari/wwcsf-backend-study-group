@@ -34,6 +34,7 @@ Patterns covered:
 - Structural Design Patterns
   - Composite Pattern
   - Adapter Pattern
+  - Proxy Pattern
 
 ## Build the application in local workspace
 
