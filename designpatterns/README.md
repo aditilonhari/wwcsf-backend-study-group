@@ -35,6 +35,7 @@ Patterns covered:
   - Composite Pattern
   - Adapter Pattern
   - Proxy Pattern
+  - Decorator Pattern
 
 ## Build the application in local workspace
 
