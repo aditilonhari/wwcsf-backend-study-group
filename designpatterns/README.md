@@ -38,6 +38,7 @@ Patterns covered:
   - Decorator Pattern
 - Creational Design Patterns
   - Singleton Pattern
+  - Factory Pattern
 
 ## Build the application in local workspace
 
