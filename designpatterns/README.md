@@ -36,6 +36,8 @@ Patterns covered:
   - Adapter Pattern
   - Proxy Pattern
   - Decorator Pattern
+- Creational Design Patterns
+  - Singleton Pattern
 
 ## Build the application in local workspace
 
