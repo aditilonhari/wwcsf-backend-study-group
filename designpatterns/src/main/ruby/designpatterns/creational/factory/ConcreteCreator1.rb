@@ -1,4 +1,5 @@
 require_relative 'Creator'
+require_relative 'ConcreteProduct1'
 
 # Concrete Creators override the factory method in order to change the resulting
 # product's type.
