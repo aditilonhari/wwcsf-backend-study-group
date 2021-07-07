@@ -40,6 +40,7 @@ Patterns covered:
   - Singleton Pattern
   - Factory Pattern
   - Abstract Factory Pattern
+  - Builder Pattern
 
 ## Build the application in local workspace
 
